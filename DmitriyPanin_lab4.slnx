@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DmitriyPanin_lab4/DmitriyPanin_lab4.vcxproj" />
+</Solution>
